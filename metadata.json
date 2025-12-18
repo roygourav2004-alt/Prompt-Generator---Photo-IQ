@@ -1,0 +1,5 @@
+{
+  "name": "prompt generator",
+  "description": "An AI-powered tool that analyzes a reference image's layout and style to generate a precise design prompt for new text content.",
+  "requestFramePermissions": []
+}
